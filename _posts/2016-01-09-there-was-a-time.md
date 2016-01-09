@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Everything starts somewhen, at least those things we remember.'
-datePublished: '2016-01-09T17:24:30.034Z'
-dateModified: '2016-01-09T17:24:10.211Z'
+datePublished: '2016-01-09T17:44:49.682Z'
+dateModified: '2016-01-09T17:44:39.639Z'
 title: There was a time
 author: []
 sourcePath: _posts/2016-01-09-there-was-a-time.md
@@ -22,7 +22,6 @@ url: there-was-a-time/index.html
 _type: Article
 
 ---
-It was summer. We're all happier in summer. There's warmth, light, and even otherwise heavy, gloomy adults sometimes smile. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ac8ce5a2a8fbc1898d8ab1b8e32d9d8d5b5e518.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bbacf97-80d4-4ebf-bb53-530f8f1c50a2.jpg)
+It was summer. We're all happier in summer. There's warmth, light, and even otherwise heavy, gloomy adults sometimes smile. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bbacf97-80d4-4ebf-bb53-530f8f1c50a2.jpg)
 
 Everything starts somewhen, at least those things we remember.
