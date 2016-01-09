@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A time-free quest]]></title>
+        <description><![CDATA[A time-free quest]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jan 2016 16:52:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[There was a time]]></title>
+            <description><![CDATA[<article><h1>There was a time</h1><p>It was summer, and all of us are happy in summer. There's warmth, light, and even otherwise gloomy adults aren't so harsh. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a07c059eb34bf3ee70dfa44650ca51afd0ffc9bb.jpg"></article>]]></description>
+            <link>undefinedthere-was-a-time/index.html</link>
+            <guid isPermaLink="false">7c1686d2-6dfc-456b-9724-3e8990fcf2fa</guid>
+            <pubDate>Sat, 09 Jan 2016 16:52:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
