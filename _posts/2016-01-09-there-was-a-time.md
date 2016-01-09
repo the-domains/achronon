@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Everything starts somewhen, at least those things we remember.'
-datePublished: '2016-01-09T17:09:33.566Z'
-dateModified: '2016-01-09T17:09:17.338Z'
+datePublished: '2016-01-09T17:11:01.409Z'
+dateModified: '2016-01-09T17:10:46.384Z'
 title: There was a time
 author: []
 sourcePath: _posts/2016-01-09-there-was-a-time.md
