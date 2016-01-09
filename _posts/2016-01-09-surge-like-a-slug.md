@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The next step isn't always with feet"
-datePublished: '2016-01-09T17:36:00.225Z'
-dateModified: '2016-01-09T17:35:43.587Z'
+datePublished: '2016-01-09T17:38:33.899Z'
+dateModified: '2016-01-09T17:38:17.890Z'
 title: Surge like a slug
 author: []
+sourcePath: _posts/2016-01-09-surge-like-a-slug.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-09-surge-like-a-slug.md
-published: true
 url: surge-like-a-slug/index.html
 _type: Article
 
