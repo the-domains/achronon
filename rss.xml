@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[A time-free quest]]></title>
         <description><![CDATA[A time-free quest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/achronon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 16:52:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 17:11:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/achronon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[There was a time]]></title>
-            <description><![CDATA[<article><h1>There was a time</h1><p>It was summer, and all of us are happy in summer. There's warmth, light, and even otherwise gloomy adults aren't so harsh. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a07c059eb34bf3ee70dfa44650ca51afd0ffc9bb.jpg"></article>]]></description>
-            <link>undefinedthere-was-a-time/index.html</link>
+            <description><![CDATA[<article><h1>There was a time</h1><p>It was summer. We're all happier in summer. There's warmth, light, and even otherwise heavy, gloomy adults sometimes smile. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9c1cf3697049540c55e6db0d5d64be6b12fc2a8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/achronon/there-was-a-time/index.html</link>
             <guid isPermaLink="false">7c1686d2-6dfc-456b-9724-3e8990fcf2fa</guid>
-            <pubDate>Sat, 09 Jan 2016 16:52:25 GMT</pubDate>
+            <pubDate>Sat, 09 Jan 2016 17:11:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
